@@ -1,1 +1,3 @@
-
+In this folder the BVgriz light-curves of our sample can be found. 
+The structure of the files is as follows: the time of the observation, then the B band magnitude, the error of the B band magnitude, and so forth. 
+#MJD Bmag eBmag Vmag eVmag gmag egmag rmag ermag imag eimag zmag ezmag
