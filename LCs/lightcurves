@@ -1,3 +1,4 @@
 In this folder the BVgriz light-curves of our sample can be found. 
-The structure of the files is as follows: the time of the observation, then the B band magnitude, the error of the B band magnitude, and so forth. 
+The structure of the files is as follows: the time of the observation, then the B band magnitude, the error of the B band magnitude, and so forth to the other bands.
+In the case of SN2019bkh and SN2019np, there are several lines where only the B and V magnitudes have values, these are the points which were observed with the Schmidt telescope, which only has BVRI bands. 
 #MJD Bmag eBmag Vmag eVmag gmag egmag rmag ermag imag eimag zmag ezmag
